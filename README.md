@@ -22,8 +22,9 @@ gateway_gsm
 observacao
 
 *Parceiro*
+
 nome
-uri
+uri_ip
 
 
 
